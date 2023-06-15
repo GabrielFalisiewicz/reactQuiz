@@ -10,7 +10,7 @@ const handleAnswer = (e) => {
     console.log(pytania[pytanie].pytanie);
 
     if (odpowiedzi.filter(odp => odp.nrp === pytania[pytanie].pytanie).length !== 0) {
-        console.log("Odpowiedź została już udzielona");
+        console.log("Odpowiedź została już podana");
     } else {
         if (pytania[pytanie].prawidlowaOdpowiedz === e.target.textContent) {
             setWynik(wynik + 1); 

@@ -3,7 +3,7 @@ import React from 'react'
 const Wyniki = ({wynik}) => {
   return (
     <div>
-        <p>Wynik: {wynik}</p>
+        <p>Results: {wynik}</p>
     </div>
   )
 }
