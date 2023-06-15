@@ -1,0 +1,46 @@
+body{
+  width: 100%;
+}
+
+.panel{
+  width: 100%;
+   font-size: 36px;
+   font-weight: bold;
+   text-align: center;
+}
+
+.wynik{
+  width: 100%;
+  height: 10vh;
+  text-align: center;
+  font-size: 36px;
+}
+
+.przyciski{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 15px;
+  margin: 15px;
+}
+
+.pytania{
+  text-align: center;
+}
+
+.wybor{
+  cursor: pointer;
+  width: 50%;
+  border: 1px solid black;
+  margin: 35px;
+  padding: 10px;
+}
+
+.pyt{
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}

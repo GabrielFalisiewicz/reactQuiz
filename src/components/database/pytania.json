@@ -1,0 +1,52 @@
+[
+    {
+      "pytanie": "Pytanie 1",
+      "odpowiedzi": [
+        "Odpowiedź A",
+        "Odpowiedź B",
+        "Odpowiedź C",
+        "Odpowiedź D"
+      ],
+      "prawidlowaOdpowiedz": "Odpowiedź A"
+    },
+    {
+      "pytanie": "Pytanie 2",
+      "odpowiedzi": [
+        "Odpowiedź A",
+        "Odpowiedź B",
+        "Odpowiedź C",
+        "Odpowiedź D"
+      ],
+      "prawidlowaOdpowiedz": "Odpowiedź C"
+    },
+    {
+      "pytanie": "Pytanie 3",
+      "odpowiedzi": [
+        "Odpowiedź A",
+        "Odpowiedź B",
+        "Odpowiedź C",
+        "Odpowiedź D"
+      ],
+      "prawidlowaOdpowiedz": "Odpowiedź B"
+    },
+    {
+      "pytanie": "Pytanie 4",
+      "odpowiedzi": [
+        "Odpowiedź A",
+        "Odpowiedź B",
+        "Odpowiedź C",
+        "Odpowiedź D"
+      ],
+      "prawidlowaOdpowiedz": "Odpowiedź D"
+    },
+    {
+      "pytanie": "Pytanie 5",
+      "odpowiedzi": [
+        "Odpowiedź A",
+        "Odpowiedź B",
+        "Odpowiedź C",
+        "Odpowiedź D"
+      ],
+      "prawidlowaOdpowiedz": "Odpowiedź C"
+    }
+  ]
